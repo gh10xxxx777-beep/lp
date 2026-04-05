@@ -71,9 +71,15 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 36px;
   font-weight: bold;
 }
+header.triangle .inner h1.main-title {
+  color: #ffffff !important;
+  text-shadow: 0 3px 15px rgba(0,0,0,0.9);
+}
 p, ul, dl {
     line-height: 1.6;
 }
+
+
 li {
     list-style: none;
 }
